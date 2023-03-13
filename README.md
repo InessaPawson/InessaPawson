@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! </h1>
+<h1 align="center">Hello world! I'm Inessa. </h1>
 
 **About me**
 
