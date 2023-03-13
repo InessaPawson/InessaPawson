@@ -23,9 +23,6 @@ Advocating for diversification of contribution pathways to open source and suppo
 
 - *[Interview for the Scientific Python Project](https://www.youtube.com/watch?v=IZAUlHFZMCQ)*
 - *[Contributor Experience 201](https://fosdem.org/2023/schedule/speaker/inessa_pawson/)* - presentation at FOSDEM'23
-- *[NumPy annual update](https://www.youtube.com/watch?v=hvHedn8bORU)* - presentation at SciPy'21 Tools Plenary
-- *[NumPy annual update](https://www.youtube.com/watch?v=TirPmOyHrmA)* - presentation at SciPy'22 Tools Plenary
-- *[Contributor Experience Team intro](https://www.youtube.com/watch?v=XiW1y18eMso)* - presentation at SciPy'22 Tools Plenary
 - *Building open source communities* - presentation for Park Lab, Harvard Medical School 
 - *[Contributing to NumPy - Roadmap for newcomers](https://speakerdeck.com/inessapawson/contributing-to-numpy-a-roadmap-for-newcomers)* - presentation for Data for Good Regina
 
