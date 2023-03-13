@@ -1,5 +1,3 @@
-<h1 align="center">Hello world! I'm Inessa. </h1>
-
 **About me**
 
 Building bridges between people, open science, and open source software. 
