@@ -9,7 +9,7 @@ Advocating for diversification of contribution pathways to open source and suppo
  
 - [NumPy](https://github.com/numpy) active contributor and maintainer (2019 - present)
 - [NumPy](https://github.com/numpy) Steering Council member (2021 – present)
-- [NumPy](https://github.com/numpy) Contributor Experience Lead (2021 - present), supported by a grant from [Chan Zuckerberg Initiative](https://chanzuckerberg.com).
+- [NumPy](https://github.com/numpy) Contributor Experience Lead (2021 - present), supported by a grant from [Chan Zuckerberg Initiative](https://chanzuckerberg.com)
 - [PyLadies South Florida](https://www.meetup.com/pyladies-soflo) founder and organizer (2019 - present)
 - [PySWFL](https://www.meetup.com/pythonswfl/) founder and organizer (2020 - present)
 - [Maintainers Summit at PyCon US](https://www.youtube.com/@MaintainersSummitPyConUS) organizer (2020 - present)
