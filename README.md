@@ -17,18 +17,13 @@ Advocating for diversification of contribution pathways to open source and suppo
 - [Scientific Python Project](https://github.com/scientific-python) active contributor (2022 - present)
 - [Contributor Experience Project](https://github.com/contributor-experience) co-founder and maintainer (2022 - present)
 - [CHAOSS](https://github.com/chaoss) SciOSS Working Group co-founder (2023 - present)
+- [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present)
 
 **Community work**
 - [FSW School of Business and Technology](https://www.fsw.edu/sobt) Computer Science Advisory Committee member (2022 - present) 
 - [FutureMakers FL](https://www.futuremakerscoalition.com) Aspiration and Preparation Action Team Chair (2022 - present) 
 - [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/) co-founder and co-organizer (2021 - present) 
 
-**Speaking**
-
-- *[Interview for the Scientific Python Project](https://www.youtube.com/watch?v=IZAUlHFZMCQ)*
-- *[Contributor Experience 201](https://fosdem.org/2023/schedule/speaker/inessa_pawson/)* - presentation at FOSDEM'23
-- *Building open source communities* - presentation for Park Lab, Harvard Medical School 
-- *[Contributing to NumPy - Roadmap for newcomers](https://speakerdeck.com/inessapawson/contributing-to-numpy-a-roadmap-for-newcomers)* - presentation for Data for Good Regina
 
 <h3 align="left">Let's connect</h3>
 <p align="left">
