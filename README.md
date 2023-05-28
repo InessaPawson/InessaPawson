@@ -14,7 +14,7 @@ Advocating for diversification of contribution pathways to open source and suppo
 - [PySWFL](https://www.meetup.com/pythonswfl/) founder and organizer (2020 - present)
 - [Maintainers Summit at PyCon US](https://www.youtube.com/@MaintainersSummitPyConUS) organizer (2020 - present)
 - [SciPy conference organizer](https://www.scipy2023.scipy.org) - Mentorship Program (2020 - 2022), Maintainers Track (2023 - present)
-- [Scientific Python Project](https://github.com/scientific-python) active contributor (2022 - present)
+- [Scientific Python Project](https://github.com/scientific-python) SPEC Steering Committee member and contributor (2022 - present)
 - [Contributor Experience Project](https://github.com/contributor-experience) co-founder and maintainer (2022 - present)
 - [CHAOSS](https://github.com/chaoss) SciOSS Working Group co-founder and maintainer (2023 - present)
 - [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present)
