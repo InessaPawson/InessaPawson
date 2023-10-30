@@ -15,13 +15,13 @@ Advocating for diversification of contribution pathways to open source and suppo
 - [Maintainers Summit at PyCon US](https://www.youtube.com/@MaintainersSummitPyConUS) organizer (2020 - present)
 - [SciPy conference organizer](https://www.scipy2023.scipy.org) - Mentorship Program (2020 - 2022), Maintainers Track (2023 - present)
 - [Scientific Python Project](https://github.com/scientific-python) SPEC Steering Committee member and contributor (2022 - present)
-- [Contributor Experience Project](https://github.com/contributor-experience) co-founder and maintainer (2022 - present)
+- [Contributor Experience Project](https://github.com/contributor-experience) founder and maintainer (2022 - present)
 - [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present)
 
 **Community work**
 - [FSW School of Business and Technology](https://www.fsw.edu/sobt) Computer Science Advisory Committee member (2022 - present) 
 - [FutureMakers FL](https://www.futuremakerscoalition.com) Aspiration and Preparation Action Team Chair (2022 - present) 
-- [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/) co-founder and co-organizer (2021 - present) 
+- [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/) founder and organizer (2021 - present) 
 
 
 <h3 align="left">Let's connect</h3>
