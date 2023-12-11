@@ -17,7 +17,7 @@ Advocating for diversification of contribution pathways to open source and suppo
 - [Scientific Python Project](https://github.com/scientific-python) SPEC Steering Committee member and contributor (2022 - present)
 - [Contributor Experience Project](https://github.com/contributor-experience) founder and maintainer (2022 - present)
 - [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present)
-- [CHAOSS](https://github.com/chaoss) SciOSS Working Group co-founder and maintainer (2023 - present)
+- [CHAOSS](https://github.com/chaoss) SciOSS Working Group founder and maintainer (2023 - present)
 
 **Community work**
 - [FSW School of Business and Technology](https://www.fsw.edu/sobt) Computer Science Advisory Committee member (2022 - present) 
