@@ -27,6 +27,6 @@ Advocating for diversification of contribution pathways to open source and suppo
 
 <h3 align="left">Let's connect</h3>
 <p align="left">
-<a href="https://twitter.com/inessapawson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="inessapawson" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ipawson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="inessapawson" height="30" width="40" /></a>
+<a href="https://twitter.com/inessapawson" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/2a78cbb45de94a355733325164a0a6d9173d6666/icons/x.svg" alt="inessapawson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ipawson" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/2a78cbb45de94a355733325164a0a6d9173d6666/icons/linkedin.svg" alt="inessapawson" height="30" width="40" /></a>
 </p>
