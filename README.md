@@ -18,7 +18,7 @@ Advocating for diversification of contribution pathways to open source and suppo
 - [PySWFL](https://www.meetup.com/pythonswfl/) founder and organizer (2020 - present)
 - [Contributor Experience Project](https://github.com/contributor-experience) founder and maintainer (2022 - present)
 - [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present)
-- [CHAOSS](https://github.com/chaoss) Scientific Research Open Source Software Working Group founder and organizer (2023 - present)
+- [CHAOSS](https://github.com/chaoss) Science and Research Working Group founder and organizer (2023 - present)
 
 
 **Community work**
