@@ -16,9 +16,8 @@ Advocating for diversification of contribution pathways to open source and suppo
 - [NumFOCUS Project Summit](https://www.nfsummit24.com) organizer (2023, 2024)
 - [PyLadies South Florida](https://www.meetup.com/pyladies-soflo) founder and organizer (2019 - present)
 - [PySWFL](https://www.meetup.com/pythonswfl/) founder and organizer (2020 - present)
-- [Contributor Experience Project](https://github.com/contributor-experience) founder and maintainer (2022 - present)
 - [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present)
-- [CHAOSS](https://github.com/chaoss) Science and Research Working Group founder and organizer (2023 - present)
+- [CHAOSS](https://github.com/chaoss) Science and Research Working Group co-chair and maintainer (2023 - present)
 
 
 **Community work**
