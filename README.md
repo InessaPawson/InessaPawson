@@ -16,10 +16,20 @@ Advocating for diversification of contribution pathways to open source and suppo
 - [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present)
 - [CHAOSS](https://github.com/chaoss) Science and Research Working Group co-chair (2023 - present)
 
+</br>
+
 **ACTIVE COMMUNITY WORK**
 - [FSW School of Business and Technology](https://www.fsw.edu/sobt) Computer Science Advisory Committee member (2022 - present) 
 - [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/) founder and organizer (2021 - present)
 
+</br>
+
+**OPEN SOURCE CONTRIBUTIONS RECOGNITION**
+
+**2019**  NumPy New Contributor Award </br>
+**2024**  NumFOCUS Community Leadership Award
+
+</br>
 <h3 align="left">Let's connect</h3>
 <p align="left">
 <a href="https://twitter.com/inessapawson" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/2a78cbb45de94a355733325164a0a6d9173d6666/icons/x.svg" alt="inessapawson" height="30" width="40" /></a>
