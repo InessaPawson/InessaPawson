@@ -12,7 +12,7 @@ Advocating for diversification of contribution pathways to open source and suppo
 - [SciPy conference](https://www.scipy2023.scipy.org) organizer (2020 - present)
 - [PySWFL](https://www.meetup.com/pythonswfl/) founder and organizer (2020 - present)
 - [Scientific Python Project](https://github.com/scientific-python) SPEC Steering Committee member and contributor (2022 - present)
-- [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present), maintainer (2025 - present)
+- [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present), infrastructure maintainer (2025 - present)
 
 
 
