@@ -13,6 +13,7 @@ Advocating for diversification of contribution pathways to open source and suppo
 - [PySWFL](https://www.meetup.com/pythonswfl/) founder and organizer (2020 - present)
 - [Scientific Python Project](https://github.com/scientific-python) SPEC Steering Committee member and contributor (2022 - present)
 - [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present), infrastructure maintainer (2025 - present)
+- [CHAOSS](https://github.com/chaoss) Science and Research Working Group co-chair (2023 - present)
 
 
 
