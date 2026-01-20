@@ -29,8 +29,9 @@ Advocating for diversification of contribution pathways to open source and suppo
 
 **OPEN SOURCE CONTRIBUTIONS RECOGNITION**
 
-**2019**  NumPy New Contributor Award </br>
-**2024**  NumFOCUS Community Leadership Award
+**2019** NumPy New Contributor Award </br>
+**2024** NumFOCUS Community Leadership Award </br>
+**2025** PSF Fellow
 
 </br>
 <h3 align="left">Let's connect</h3>
