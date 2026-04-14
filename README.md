@@ -7,19 +7,17 @@ Advocating for diversification of contribution pathways to open source and suppo
 
 **ACTIVE OPEN SOURCE PARTICIPATION**
 - [NumPy](https://github.com/numpy) key contributor (2019 - present), Steering Council member (2021 – present)
-- [PyLadies South Florida](https://www.meetup.com/pyladies-soflo) founder and organizer (2019 - present)
-- [Maintainers Summit at PyCon US](https://www.youtube.com/@MaintainersSummitPyConUS) organizer (2020 - present)
-- [SciPy conference](https://www.scipy2023.scipy.org) organizer (2020 - present)
-- [PySWFL](https://www.meetup.com/pythonswfl/) founder and organizer (2020 - present)
 - [Scientific Python Project](https://github.com/scientific-python) SPEC Steering Committee member and contributor (2022 - present)
 - [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present), infrastructure maintainer (2025 - present)
-
+- [SciPy conference](https://www.scipy2026.scipy.org) organizer (2020 - present)
+- [Maintainers Summit at PyCon US](https://us.pycon.org/2026/events/maintainers-summit/) organizer (2020 - present)
+- [PySWFL](https://www.meetup.com/pythonswfl/) founder and organizer (2020 - present)
+- [PyLadies South Florida](https://www.meetup.com/pyladies-soflo) founder and organizer (2019 - present)
 
 </br>
 
 **ACTIVE COMMUNITY WORK**
-- [FSW School of Business and Technology](https://www.fsw.edu/sobt) Computer Science Advisory Committee member (2022 - present) 
-- [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/) founder and organizer (2021 - present)
+- [FSW School of Business and Technology](https://www.fsw.edu/sobt) Computer Science Advisory Committee member (2022 - present)
 
 </br>
 
