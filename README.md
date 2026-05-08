@@ -8,7 +8,7 @@ Advocating for diversification of contribution pathways to open source and suppo
 **ACTIVE OPEN SOURCE PARTICIPATION**
 - [NumPy](https://github.com/numpy) key contributor (2019 - present), Steering Council member (2021 – present)
 - [Scientific Python Project](https://github.com/scientific-python) SPEC Steering Committee member and contributor (2022 - present)
-- [pyOpenSci](https://www.pyopensci.org) Advisory Board member (2023 - present), infrastructure maintainer (2025 - present)
+- [pyOpenSci](https://www.pyopensci.org) Advisory Council member (2023 - present), infrastructure maintainer (2025 - present)
 - [SciPy conference](https://www.scipy2026.scipy.org) organizer (2020 - present)
 - [Maintainers Summit at PyCon US](https://us.pycon.org/2026/events/maintainers-summit/) organizer (2020 - present)
 - [PySWFL](https://www.meetup.com/pythonswfl/) founder and organizer (2020 - present)
