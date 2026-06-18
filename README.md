@@ -14,10 +14,6 @@ Advocating for diversification of contribution pathways to open source and suppo
 - [PySWFL](https://www.meetup.com/pythonswfl/) founder and organizer (2020 - present)
 - [PyLadies South Florida](https://www.meetup.com/pyladies-soflo) founder and organizer (2019 - present)
 
-</br>
-
-**ACTIVE COMMUNITY WORK**
-- [FSW School of Business and Technology](https://www.fsw.edu/sobt) Computer Science Advisory Committee member (2022 - present)
 
 </br>
 
