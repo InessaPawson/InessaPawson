@@ -2,9 +2,6 @@
 
 Building bridges between people, open science, and open source software. 
 
-Advocating for diversification of contribution pathways to open source and supporting its human infrastructure. 
-
-
 **ACTIVE OPEN SOURCE PARTICIPATION**
 - [NumPy](https://github.com/numpy) key contributor (2019 - present), Steering Council member (2021 – present)
 - [Scientific Python Project](https://github.com/scientific-python) SPEC Steering Committee member and contributor (2022 - present)
