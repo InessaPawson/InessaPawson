@@ -7,7 +7,7 @@ Building bridges between people, open science, and open source software.
 - [Scientific Python Project](https://github.com/scientific-python) SPEC Steering Committee member and contributor (2022 - present)
 - [pyOpenSci](https://www.pyopensci.org) Advisory Council member (2023 - present), infrastructure maintainer (2025 - present)
 - [SciPy conference](https://www.scipy2026.scipy.org) organizer (2020 - present)
-- [Maintainers Summit at PyCon US](https://us.pycon.org/2026/events/maintainers-summit/) organizer (2020 - present)
+- [Maintainer Summit at PyCon US](https://us.pycon.org/2026/events/maintainers-summit/) organizer (2020 - present)
 - [PySWFL](https://www.meetup.com/pythonswfl/) founder and organizer (2020 - present)
 - [PyLadies South Florida](https://www.meetup.com/pyladies-soflo) founder and organizer (2019 - present)
 
